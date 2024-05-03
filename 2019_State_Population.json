@@ -1,0 +1,532 @@
+[
+  {
+    "Location": "United States",
+    "White": 191757100,
+    "Black": 38872200,
+    "Hispanic": 59102900,
+    "Asian": 18007200,
+    "American Indian/Alaska Native": 2125700,
+    "Native Hawaiian/Other Pacific Islander": 528200,
+    "Total": 319249300
+  },
+  {
+    "Location": "Alabama",
+    "White": 3117200,
+    "Black": 1263500,
+    "Hispanic": 211700,
+    "Asian": 65200,
+    "American Indian/Alaska Native": 18800,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 4767100
+  },
+  {
+    "Location": "Alaska",
+    "White": 421100,
+    "Black": 15200,
+    "Hispanic": 48900,
+    "Asian": 42000,
+    "American Indian/Alaska Native": 106000,
+    "Native Hawaiian/Other Pacific Islander": 10400,
+    "Total": 701700
+  },
+  {
+    "Location": "Arizona",
+    "White": 3843700,
+    "Black": 306600,
+    "Hispanic": 2254800,
+    "Asian": 231000,
+    "American Indian/Alaska Native": 276100,
+    "Native Hawaiian/Other Pacific Islander": 12500,
+    "Total": 7098000
+  },
+  {
+    "Location": "Arkansas",
+    "White": 2108400,
+    "Black": 444200,
+    "Hispanic": 226800,
+    "Asian": 45500,
+    "American Indian/Alaska Native": 16700,
+    "Native Hawaiian/Other Pacific Islander": 10800,
+    "Total": 2922500
+  },
+  {
+    "Location": "California",
+    "White": 14047400,
+    "Black": 2066300,
+    "Hispanic": 15271400,
+    "Asian": 5691100,
+    "American Indian/Alaska Native": 138800,
+    "Native Hawaiian/Other Pacific Islander": 137000,
+    "Total": 38642700
+  },
+  {
+    "Location": "Colorado",
+    "White": 3804100,
+    "Black": 211100,
+    "Hispanic": 1221900,
+    "Asian": 180300,
+    "American Indian/Alaska Native": 29400,
+    "Native Hawaiian/Other Pacific Islander": 6200,
+    "Total": 5611800
+  },
+  {
+    "Location": "Connecticut",
+    "White": 2268200,
+    "Black": 346400,
+    "Hispanic": 583300,
+    "Asian": 158600,
+    "American Indian/Alaska Native": 5600,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 3453300
+  },
+  {
+    "Location": "Delaware",
+    "White": 577700,
+    "Black": 205100,
+    "Hispanic": 91100,
+    "Asian": 36900,
+    "American Indian/Alaska Native": 3000,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 940300
+  },
+  {
+    "Location": "District of Columbia",
+    "White": 246100,
+    "Black": 302400,
+    "Hispanic": 75200,
+    "Asian": 25200,
+    "American Indian/Alaska Native": 1800,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 671300
+  },
+  {
+    "Location": "Florida",
+    "White": 11119200,
+    "Black": 3150100,
+    "Hispanic": 5583900,
+    "Asian": 573500,
+    "American Indian/Alaska Native": 39900,
+    "Native Hawaiian/Other Pacific Islander": 12200,
+    "Total": 20992000
+  },
+  {
+    "Location": "Georgia",
+    "White": 5354500,
+    "Black": 3225900,
+    "Hispanic": 1011800,
+    "Asian": 422400,
+    "American Indian/Alaska Native": 19700,
+    "Native Hawaiian/Other Pacific Islander": 5800,
+    "Total": 10294000
+  },
+  {
+    "Location": "Hawaii",
+    "White": 274400,
+    "Black": 16400,
+    "Hispanic": 137900,
+    "Asian": 528600,
+    "American Indian/Alaska Native": 1600,
+    "Native Hawaiian/Other Pacific Islander": 136900,
+    "Total": 1343000
+  },
+  {
+    "Location": "Idaho",
+    "White": 1429500,
+    "Black": 11500,
+    "Hispanic": 225600,
+    "Asian": 21600,
+    "American Indian/Alaska Native": 15900,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 1750900
+  },
+  {
+    "Location": "Illinois",
+    "White": 7522700,
+    "Black": 1679900,
+    "Hispanic": 2177500,
+    "Asian": 695500,
+    "American Indian/Alaska Native": 11300,
+    "Native Hawaiian/Other Pacific Islander": 3000,
+    "Total": 12362300
+  },
+  {
+    "Location": "Indiana",
+    "White": 5116000,
+    "Black": 600500,
+    "Hispanic": 471000,
+    "Asian": 158800,
+    "American Indian/Alaska Native": 12300,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 6511800
+  },
+  {
+    "Location": "Iowa",
+    "White": 2610600,
+    "Black": 119200,
+    "Hispanic": 191600,
+    "Asian": 71600,
+    "American Indian/Alaska Native": 8800,
+    "Native Hawaiian/Other Pacific Islander": 1000,
+    "Total": 3060200
+  },
+  {
+    "Location": "Kansas",
+    "White": 2128700,
+    "Black": 153300,
+    "Hispanic": 341900,
+    "Asian": 79900,
+    "American Indian/Alaska Native": 17500,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 2811200
+  },
+  {
+    "Location": "Kentucky",
+    "White": 3648500,
+    "Black": 344900,
+    "Hispanic": 160800,
+    "Asian": 70400,
+    "American Indian/Alaska Native": 4900,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 4319300
+  },
+  {
+    "Location": "Louisiana",
+    "White": 2643900,
+    "Black": 1433000,
+    "Hispanic": 235800,
+    "Asian": 76600,
+    "American Indian/Alaska Native": 21600,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 4498600
+  },
+  {
+    "Location": "Maine",
+    "White": 1213500,
+    "Black": 17800,
+    "Hispanic": 21900,
+    "Asian": 14500,
+    "American Indian/Alaska Native": 9700,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 1302300
+  },
+  {
+    "Location": "Maryland",
+    "White": 2934100,
+    "Black": 1741500,
+    "Hispanic": 624500,
+    "Asian": 373300,
+    "American Indian/Alaska Native": 12400,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 5875500
+  },
+  {
+    "Location": "Massachusetts",
+    "White": 4687000,
+    "Black": 466200,
+    "Hispanic": 824100,
+    "Asian": 448000,
+    "American Indian/Alaska Native": 12000,
+    "Native Hawaiian/Other Pacific Islander": 2600,
+    "Total": 6650800
+  },
+  {
+    "Location": "Michigan",
+    "White": 7316400,
+    "Black": 1305100,
+    "Hispanic": 514600,
+    "Asian": 315900,
+    "American Indian/Alaska Native": 47100,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 9765600
+  },
+  {
+    "Location": "Minnesota",
+    "White": 4361600,
+    "Black": 353700,
+    "Hispanic": 307300,
+    "Asian": 272500,
+    "American Indian/Alaska Native": 50900,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 5514800
+  },
+  {
+    "Location": "Mississippi",
+    "White": 1622400,
+    "Black": 1078300,
+    "Hispanic": 85900,
+    "Asian": 28600,
+    "American Indian/Alaska Native": 11000,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 2867100
+  },
+  {
+    "Location": "Missouri",
+    "White": 4715000,
+    "Black": 667100,
+    "Hispanic": 253900,
+    "Asian": 122500,
+    "American Indian/Alaska Native": 21200,
+    "Native Hawaiian/Other Pacific Islander": 8200,
+    "Total": 5939900
+  },
+  {
+    "Location": "Montana",
+    "White": 895200,
+    "Black": 5900,
+    "Hispanic": 38300,
+    "Asian": 7900,
+    "American Indian/Alaska Native": 62900,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 1039400
+  },
+  {
+    "Location": "Nebraska",
+    "White": 1470900,
+    "Black": 89200,
+    "Hispanic": 212200,
+    "Asian": 45200,
+    "American Indian/Alaska Native": 14800,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 1873600
+  },
+  {
+    "Location": "Nevada",
+    "White": 1448800,
+    "Black": 279000,
+    "Hispanic": 888400,
+    "Asian": 257500,
+    "American Indian/Alaska Native": 26700,
+    "Native Hawaiian/Other Pacific Islander": 17500,
+    "Total": 3029700
+  },
+  {
+    "Location": "New Hampshire",
+    "White": 1179700,
+    "Black": 17600,
+    "Hispanic": 51500,
+    "Asian": 34800,
+    "American Indian/Alaska Native": "N/A",
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 1314000
+  },
+  {
+    "Location": "New Jersey",
+    "White": 4738500,
+    "Black": 1081400,
+    "Hispanic": 1822900,
+    "Asian": 836400,
+    "American Indian/Alaska Native": 8800,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 8699400
+  },
+  {
+    "Location": "New Mexico",
+    "White": 750000,
+    "Black": 35000,
+    "Hispanic": 1010200,
+    "Asian": 32900,
+    "American Indian/Alaska Native": 176600,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 2041400
+  },
+  {
+    "Location": "New York",
+    "White": 10432200,
+    "Black": 2651600,
+    "Hispanic": 3649800,
+    "Asian": 1625500,
+    "American Indian/Alaska Native": 39100,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 18908300
+  },
+  {
+    "Location": "North Carolina",
+    "White": 6355400,
+    "Black": 2124200,
+    "Hispanic": 987900,
+    "Asian": 294400,
+    "American Indian/Alaska Native": 112600,
+    "Native Hawaiian/Other Pacific Islander": 4800,
+    "Total": 10139700
+  },
+  {
+    "Location": "North Dakota",
+    "White": 614600,
+    "Black": 17900,
+    "Hispanic": 29400,
+    "Asian": 10400,
+    "American Indian/Alaska Native": 38000,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 731000
+  },
+  {
+    "Location": "Ohio",
+    "White": 8918300,
+    "Black": 1380000,
+    "Hispanic": 452300,
+    "Asian": 260500,
+    "American Indian/Alaska Native": 15800,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 11351500
+  },
+  {
+    "Location": "Oklahoma",
+    "White": 2488200,
+    "Black": 262800,
+    "Hispanic": 424600,
+    "Asian": 78900,
+    "American Indian/Alaska Native": 295000,
+    "Native Hawaiian/Other Pacific Islander": 4600,
+    "Total": 3826900
+  },
+  {
+    "Location": "Oregon",
+    "White": 3097700,
+    "Black": 72900,
+    "Hispanic": 553400,
+    "Asian": 192000,
+    "American Indian/Alaska Native": 38900,
+    "Native Hawaiian/Other Pacific Islander": 10900,
+    "Total": 4128900
+  },
+  {
+    "Location": "Pennsylvania",
+    "White": 9401500,
+    "Black": 1282000,
+    "Hispanic": 960500,
+    "Asian": 438000,
+    "American Indian/Alaska Native": 14200,
+    "Native Hawaiian/Other Pacific Islander": 2300,
+    "Total": 12377600
+  },
+  {
+    "Location": "Rhode Island",
+    "White": 717300,
+    "Black": 60300,
+    "Hispanic": 169100,
+    "Asian": 34000,
+    "American Indian/Alaska Native": 2300,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 1017100
+  },
+  {
+    "Location": "South Carolina",
+    "White": 3177000,
+    "Black": 1307200,
+    "Hispanic": 285200,
+    "Asian": 84100,
+    "American Indian/Alaska Native": 14300,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 4984200
+  },
+  {
+    "Location": "South Dakota",
+    "White": 697500,
+    "Black": 18800,
+    "Hispanic": 31400,
+    "Asian": 11000,
+    "American Indian/Alaska Native": 71500,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 851300
+  },
+  {
+    "Location": "Tennessee",
+    "White": 4884500,
+    "Black": 1088500,
+    "Hispanic": 378900,
+    "Asian": 120600,
+    "American Indian/Alaska Native": 17200,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 6640900
+  },
+  {
+    "Location": "Texas",
+    "White": 11637100,
+    "Black": 3297200,
+    "Hispanic": 11300500,
+    "Asian": 1409700,
+    "American Indian/Alaska Native": 76800,
+    "Native Hawaiian/Other Pacific Islander": 19000,
+    "Total": 28286200
+  },
+  {
+    "Location": "Utah",
+    "White": 2452300,
+    "Black": 32600,
+    "Hispanic": 455000,
+    "Asian": 72800,
+    "American Indian/Alaska Native": 31100,
+    "Native Hawaiian/Other Pacific Islander": 25800,
+    "Total": 3154100
+  },
+  {
+    "Location": "Vermont",
+    "White": 555100,
+    "Black": 6700,
+    "Hispanic": 10600,
+    "Asian": 9700,
+    "American Indian/Alaska Native": 4000,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 598100
+  },
+  {
+    "Location": "Virginia",
+    "White": 5017100,
+    "Black": 1543100,
+    "Hispanic": 787100,
+    "Asian": 551900,
+    "American Indian/Alaska Native": 13600,
+    "Native Hawaiian/Other Pacific Islander": 3900,
+    "Total": 8185100
+  },
+  {
+    "Location": "Washington",
+    "White": 5013200,
+    "Black": 282700,
+    "Hispanic": 964700,
+    "Asian": 662400,
+    "American Indian/Alaska Native": 82400,
+    "Native Hawaiian/Other Pacific Islander": 47400,
+    "Total": 7423900
+  },
+  {
+    "Location": "West Virginia",
+    "White": 1609000,
+    "Black": 55900,
+    "Hispanic": 24800,
+    "Asian": 14200,
+    "American Indian/Alaska Native": 3900,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 1739000
+  },
+  {
+    "Location": "Wisconsin",
+    "White": 4602500,
+    "Black": 349200,
+    "Hispanic": 401700,
+    "Asian": 169100,
+    "American Indian/Alaska Native": 37400,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 5677100
+  },
+  {
+    "Location": "Wyoming",
+    "White": 471600,
+    "Black": 5400,
+    "Hispanic": 57100,
+    "Asian": 3400,
+    "American Indian/Alaska Native": 12300,
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 562700
+  },
+  {
+    "Location": "Puerto Rico",
+    "White": 42600,
+    "Black": 3100,
+    "Hispanic": 3106600,
+    "Asian": "N/A",
+    "American Indian/Alaska Native": "N/A",
+    "Native Hawaiian/Other Pacific Islander": "N/A",
+    "Total": 3164500
+  }
+]
